@@ -180,6 +180,19 @@ I'm a self-starting developer, comfortable flying solo or syncing with the team.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.steventinnguyen.click/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/tin-nguyen-van-trung.e902483d/badges#credly)
 [![Google Skills](https://img.shields.io/badge/Google%20Skills-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/d9753e31-ddce-415f-9e00-e1957f3949b1)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stevennguyen999)
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+If you find my projects helpful or want to support my open-source contributions, consider buying me a coffee! ☕
+
+<a href="https://buymeacoffee.com/stevennguyen999" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
 
