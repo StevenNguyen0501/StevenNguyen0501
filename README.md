@@ -5,7 +5,7 @@ I'm a self-starting developer, comfortable flying solo or syncing with the team.
 
 ## 🚀 About Me
 
-🌟 **Best Performer** | **Manager of the Year 2024** | **6+ Years in AI/ML Engineering**  
+🌟 **Best Performer** | **Manager of the Year 2024** | **8+ Years in AI/ML Engineering**  
 📍 **Danang, Vietnam** | 🌐 **Open to Remote Opportunities**
 
 ### 🔥 Core Expertise
